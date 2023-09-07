@@ -1,3 +1,3 @@
 # DatavisRepo
 
-[Zuyd] (https://www.zuyd.nl/)
+[Zuyd](https://www.zuyd.nl/)
